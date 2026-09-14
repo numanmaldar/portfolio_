@@ -131,7 +131,7 @@ export default function Home() {
           <div className="hero-ctas">
             <a href="#projects" className="btn-primary">View Projects</a>
             <a href="mailto:numanmaldar74@gmail.com" className="btn-secondary">Get In Touch</a>
-            <a href="https://drive.google.com/file/d/19JRq2n3lzXUCor5mvn5LiJu63ku8dqCB/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn-outline-signal">
+            <a href="https://drive.google.com/file/d/1r_fbwLtXVCs8N66FBUkBDICp-JfD4MAQ/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn-outline-signal">
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
                 <polyline points="7 10 12 15 17 10" />
